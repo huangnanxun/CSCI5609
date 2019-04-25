@@ -1,0 +1,16 @@
+name,Pine,Aspen,Spruce,Juneberry,Moth,Beetle,Crossbill,Hare,Beaver,Warbler,Owl,Lynx,Mosquito
+,,,,,,,,,,,,,
+,Pine,Aspen,Spruce,Juneberry,Moth,Beetle,Crossbill,Hare,Beaver,Warbler,Owl,Lynx,Mosquito
+Pine,0,0,0,0,4,4,4,0,0,0,0,0,0
+Aspen,0,0,0,0,4,0,0,4,4,0,0,0,0
+Spruce,0,0,0,0,4,4,4,0,0,0,0,0,0
+Juneberry,0,0,0,0,0,0,0,4,0,0,0,0,0
+Moth,0,0,0,0,0,0,0,0,0,4,0,0,0
+Beetle,0,0,0,0,0,0,0,0,0,4,0,0,0
+Crossbill,0,0,0,0,0,0,0,0,0,0,4,0,0
+Hare,0,0,0,0,0,0,0,0,0,0,0,4,4
+Beaver,0,0,0,0,0,0,0,0,0,0,0,4,4
+Warbler,0,0,0,0,0,0,0,0,0,0,4,0,4
+Owl,0,0,0,0,0,0,0,0,0,0,0,0,4
+Lynx,0,0,0,0,0,0,0,0,0,0,0,0,4
+Mosquito,0,0,0,0,0,0,0,0,0,0,0,0,0
